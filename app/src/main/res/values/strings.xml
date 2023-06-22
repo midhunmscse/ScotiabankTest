@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TakeHome</string>
+    <string name="description">Description: </string>
+    <string name="full_name">Full Name: </string>
+    <string name="forks">Forks: </string>
+    <string name="enter_a_github_user_id">Enter a github user id</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_a_valid_user_id">Enter a valid User ID</string>
+    <string name="search_github_user">Search Github user</string>
+    <string name="user_not_found">User not found</string>
+</resources>
